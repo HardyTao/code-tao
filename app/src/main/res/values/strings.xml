@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JM9DVR</string>
+    <drawable name="normal">#c3c3c3</drawable>
+    <drawable name="pressed">#2884F5</drawable>
+    <drawable name="normal1">#c3c3c3</drawable>
+    <drawable name="pressed1">#ff33b5e5</drawable>
+    <drawable name="normal2">#c3c3c3</drawable>
+    <drawable name="pressed2">#ff669900</drawable>
+    <drawable name="pressed3">#0662f5</drawable>
+    <string name="ip1">192.168.1.50</string>
+    <string name="ip2">192.168.2.101</string>
+    <string name="ip3">192.168.2.102</string>
+    <string name="ip4">192.168.2.103</string>
+    <string name="ip5">192.168.2.104</string>
+    <string name="ip6">192.168.2.105</string>
+    <string name="ip7">192.168.2.106</string>
+    <string name="password">9DVR</string>
+</resources>
