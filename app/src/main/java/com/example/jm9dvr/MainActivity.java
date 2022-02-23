@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
 //String []gmmulu=new String[]{"allgame","kongbu","hangtian","jixian","haiyang","kepu"};
     private static final int SEND_SMS = 100;
     public static String[] Serial=new String[]{"123456789","","","",""};
-    String SERVERIP="192.168.1.145";//目标接收端的ip地址
+    String SERVERIP="192.168.1.146";//目标接收端的ip地址
     DatagramSocket Socket;
     int DuanKouShou = 60000;        //目标接收端口号,用来接收数据的端口，假设端口号为60000
     int DuanKouFa = 60001;            //本机端口号,用来发送的端口，假设端口号为66001
